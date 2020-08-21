@@ -15,7 +15,7 @@ brew install gcc
 
 ***I would also install Ultimate vimrc because it makes vim more palatable.***
 
-If git is not installed, then use brew to install git. 
+**2.1.** (Optional but recommended) If git is not installed, then use brew to install git. 
 
 ```brew install git```
 
