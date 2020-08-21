@@ -11,7 +11,7 @@ brew install gcc
 
 **2.** Install vim because it's great. 
 
-```out
+out
 brew install vim
 ```
 
@@ -19,7 +19,7 @@ brew install vim
 
 If git is not installed, then use brew to install git. 
 
-```out 
+```
 brew install git
 ```
 
