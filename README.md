@@ -13,7 +13,7 @@ brew install gcc
 
 ```brew install vim```
 
-*I would also install Ultimate vimrc because it makes vim more palatable.*
+***I would also install Ultimate vimrc because it makes vim more palatable.***
 
 If git is not installed, then use brew to install git. 
 
