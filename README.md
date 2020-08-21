@@ -1,6 +1,6 @@
 # Getting Started with C
 
-First you have to install gcc. Copy and paste this if you are on Mac. You also need to install brew. 
+**1.** First you have to install gcc. Copy and paste this if you are on Mac. You also need to install brew. 
 
 ```out
 brew update
@@ -9,13 +9,13 @@ brew info gcc
 brew install gcc
 ```
 
-Install vim because it's great. 
+**2.** Install vim because it's great. 
 
 ```out
 brew install vim
 ```
 
-I would also install Ultimate vimrc. 
+*I would also install Ultimate vimrc because it makes vim more palatable.*
 
 If git is not installed, then use brew to install git. 
 
