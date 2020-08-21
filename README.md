@@ -19,15 +19,11 @@ brew install vim
 
 If git is not installed, then use brew to install git. 
 
-```
-brew install git
-```
+```brew install git```
 
 Clone the vimrc files. 
 
-```out
-git clone https://github.com/amix/vimrc.git ~/.vim_runtime
-```
+```git clone https://github.com/amix/vimrc.git ~/.vim_runtime```
 
 For more information on how to update the file and install other versions, visit [this](https://sourabhbajaj.com/mac-setup/Vim/README.html) website. 
 
