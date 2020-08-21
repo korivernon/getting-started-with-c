@@ -11,9 +11,7 @@ brew install gcc
 
 **2.** Install vim because it's great. 
 
-out
-brew install vim
-```
+```brew install vim```
 
 *I would also install Ultimate vimrc because it makes vim more palatable.*
 
@@ -29,4 +27,6 @@ For more information on how to update the file and install other versions, visit
 
 # To compile
 
-To compile your code, use gcc. If you had a file called `hello.c`, you would compile it using `gcc hello.c && ./a.out -w`.
+To compile your code, use gcc. If you had a file called `hello.c`, you would compile it using 
+
+`gcc hello.c && ./a.out -w`
